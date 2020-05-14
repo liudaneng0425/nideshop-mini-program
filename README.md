@@ -92,3 +92,5 @@
 喜欢别忘了 Star，有问题可通过微信、公众号、QQ 群联系我，谢谢您的关注。
 
 ![联系方式](http://nideshop-static.childsay.com/nideshop-qrcode.png)
+
+在此程序基础上，按照中山启光太阳能光伏工程有限公司的要求，修改为简单的小程序。
